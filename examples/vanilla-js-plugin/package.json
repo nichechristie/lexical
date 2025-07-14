@@ -12,7 +12,7 @@
     "@lexical/dragon": "0.24.0",
     "@lexical/history": "0.24.0",
     "@lexical/rich-text": "0.24.0",
-    "@lexical/utils": "0.24.0",
+    "@lexical/utils": "0.32.1",
     "emoji-datasource-facebook": "15.1.2",
     "lexical": "0.24.0"
   },
