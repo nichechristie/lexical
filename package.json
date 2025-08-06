@@ -179,7 +179,7 @@
     "proper-lockfile": "^4.1.2",
     "react-test-renderer": "^17.0.2",
     "rollup": "^4.22.4",
-    "tmp": "^0.2.1",
+    "tmp": "^0.2.4",
     "ts-jest": "^29.1.2",
     "ts-node": "^10.9.1",
     "typedoc": "^0.25.12",
